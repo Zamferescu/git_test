@@ -1,0 +1,17 @@
+commit 526ec11f3e8470ee74c874e28d73eda960a38fc6
+Author: Zamferescu <damascan.ion.upwork@gmail.com>
+Date:   Sun Jul 23 14:57:31 2023 +0000
+
+    added a git ignore gile
+
+commit 679948261ab49a76f39a7624cc71abee9eb18337
+Author: Zamferescu <damascan.ion.upwork@gmail.com>
+Date:   Sun Jul 23 14:41:15 2023 +0000
+
+    added 2 more files
+
+commit 270748047b5e4ffe84acaa592bc5afffe1cc097d
+Author: Zamferescu <damascan.ion.upwork@gmail.com>
+Date:   Sun Jul 23 14:35:48 2023 +0000
+
+    added readme.txt file
